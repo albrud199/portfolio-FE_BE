@@ -1,0 +1,13 @@
+package llm.iteration3.mall.repository;
+
+import java.util.List;
+import java.util.Optional;
+import llm.iteration3.mall.model.Product;
+
+public interface ProductRepository {
+    Product save(Product product);
+
+    Optional<Product> findById(Long id);
+
+    List<Product> findAll();
+}
