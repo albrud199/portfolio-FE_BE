@@ -77,8 +77,8 @@ Deep structural insight:
 
 ## 7. Appendix
 
-- Repo evidence:
-- Prompt log:
-- Human snapshot:
-- LLM code:
-- Metrics evidence:
+- Repo evidence: [repository-selection.md](../evidence/repository-selection.md)
+- Prompt log: [prompt-log.md](../prompts/prompt-log.md)
+- Human snapshot: [thingsboard-telemetry](../snapshots/human/thingsboard-telemetry) and [mall-product](../snapshots/human/mall-product)
+- LLM code: [thingsboard-telemetry](../snapshots/llm/iteration-3/thingsboard-telemetry) and [mall-product](../snapshots/llm/iteration-3/mall-product)
+- Metrics evidence: [metrics-template.md](../metrics/metrics-template.md)

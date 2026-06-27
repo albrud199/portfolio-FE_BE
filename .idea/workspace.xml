@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4946adec-d976-4aa8-8f66-e4de82fd19ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/public/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/public/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/assets/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/assets/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/client/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio-main/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/human_system_analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/llm_generated_code/controller/LLMDeviceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/llm_generated_code/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/llm_generated_code/service/LLMDeviceManagementService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/metrics_calculation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/pre_llm_snapshots/Mall_PmsBrandController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/pre_llm_snapshots/Mall_PmsBrandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/pre_llm_snapshots/ThingsBoard_DeviceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/pre_llm_snapshots/ThingsBoard_DeviceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/prompt_log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-submission/repository_evidence.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/repos/mall" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FgEZr1eEvkOiluPYN65qGdMjSr" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "7e57a2db",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/study/11th sem/423/project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4946adec-d976-4aa8-8f66-e4de82fd19ba" name="Changes" comment="" />
+      <created>1782488371285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782488371285</updated>
+      <workItem from="1782488372927" duration="1397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
